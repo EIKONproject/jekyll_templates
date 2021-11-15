@@ -1,5 +1,5 @@
 # Jekyll Templates
-A list of useful Jekyll templates. Fell fre to contribute with an [issue](https://github.com/EIKONproject/jekyll_templates/issues) or a [pull request](https://github.com/EIKONproject/jekyll_templates/pulls) to add some more!
+A list of useful Jekyll templates. Feel free to contribute with an [issue](https://github.com/EIKONproject/jekyll_templates/issues) or a [pull request](https://github.com/EIKONproject/jekyll_templates/pulls) to add some more!
 
 | Repo | Description | Demo | 
 | --- | --- | --- |
